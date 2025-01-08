@@ -1,0 +1,19 @@
+.App{
+    background-color: rgb(243, 232, 232);
+
+}
+
+.tite{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-left: 0px;
+    color: black;
+}
+
+
+ 
